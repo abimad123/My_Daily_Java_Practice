@@ -7,3 +7,7 @@ public static void main(String args[]){
         System.out.println("Number is: "+num);
     }
 }
+
+//nextInt() - Reads integer
+//nextDouble() - Reads decimal number
+//nextLine() - Reads full string
