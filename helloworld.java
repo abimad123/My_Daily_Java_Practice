@@ -3,3 +3,4 @@ class helloworld{
         System.out.println("Hello world");
     }
 }
+//main() - Entry point of program
