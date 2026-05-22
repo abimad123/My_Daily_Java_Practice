@@ -11,3 +11,5 @@ class EvenOddif{
            }
     }
 }
+
+//in else should not have the conditions
